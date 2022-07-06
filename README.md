@@ -6,5 +6,3 @@
 
 ## What I'm Learning (Or At Least Trying To)
 [![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,bootstrap,cs,docker,git,js,nodejs,py)](https://skillicons.dev)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebbthepleb)](https://github.com/anuraghazra/github-readme-stats)
