@@ -4,5 +4,5 @@
 ## What I Know (For The Most Part)
 [![My Skills](https://skillicons.dev/icons?i=ai,css,html,linux,pr,ps,raspberrypi,unity,vscode)](https://skillicons.dev)
 
-## What I'm Learning
+## What I'm Learning (Or At Least Trying To)
 [![My Skills](https://skillicons.dev/icons?i=arduino,autocad,bash,blender,bootstrap,cs,docker,dotnet,git,js,nodejs,py)](https://skillicons.dev)
