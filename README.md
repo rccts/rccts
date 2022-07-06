@@ -6,5 +6,3 @@
 
 ## What I'm Learning (Or At Least Trying To)
 [![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,bootstrap,cs,docker,git,js,nodejs,py)](https://skillicons.dev)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
