@@ -5,4 +5,4 @@
 [![My Skills](https://skillicons.dev/icons?i=autocad,css,git,html,linux,raspberrypi,unity)](https://skillicons.dev)
 
 ## What I'm Learning (Or At Least Trying To)
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,bootstrap,cs,docker,electron,js,nodejs,py,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,bootstrap,c,cs,docker,electron,js,nodejs,py,react)](https://skillicons.dev)
